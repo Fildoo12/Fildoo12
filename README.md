@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **the basics of js**
 
-- 👯 I play **Rust, Csgo, World Of tanks**
+- 👯 I play **Rust, Csgo, World Of Tanks**
 
 - 🤝 I like **good food, some sports, e-sport**
 
