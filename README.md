@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **the basics of js**
 
-- 👯 I hate **bad food**
+- 👯 I play **Rust, Csgo, World Of tanks**
 
 - 🤝 I like **good food, some sports, e-sport**
 
 - 💬 Ask me about **gaming, money**
 
-- 📫 How to reach me **filip.picek@gmail.com/filip.picek@student.spsmb.cz**
+- 📫 How to reach me **filip.picek@gmail.com/Discord: Pepek Namornik#8809**
 
 - ⚡ Fun fact **Gray is not a color**
 
