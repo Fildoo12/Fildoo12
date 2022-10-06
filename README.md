@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Fildoo</h1>
-<h3 align="center">A passionate frontend developer from Czech Republic. Full-time Rust monkey.</h3>
+<h3 align="center">A noobie developer from Czech Republic. Full-time Rust monkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fildoo12&label=Profile%20views&color=0e75b6&style=flat" alt="fildoo12" /> </p>
 
@@ -9,7 +9,11 @@
 
 - 🌱 I’m currently learning **the basics of js**
 
-- 💬 Ask me about **gaming**
+- 👯 I hate **bad food**
+
+- 🤝 I like **good food, some sports, e-sport**
+
+- 💬 Ask me about **gaming, money**
 
 - 📫 How to reach me **filip.picek@gmail.com/filip.picek@student.spsmb.cz**
 
