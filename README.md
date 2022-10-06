@@ -1,4 +1,4 @@
-<h1 align="center">What’s up, I'm Fildoo</h1>
+<h1 align="center">Hey, I'm Fildoo</h1>
 <h3 align="center">A passionate frontend developer from Czech Republic. Full-time Rust monkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fildoo12&label=Profile%20views&color=0e75b6&style=flat" alt="fildoo12" /> </p>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **filip.picek@gmail.com/filip.picek@student.spsmb.cz**
 
-- ⚡ Fun fact **I think I’m a god gamer**
+- ⚡ Fun fact **Gray is not a color**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
