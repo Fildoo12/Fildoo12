@@ -5,15 +5,11 @@
 
 
 
-- 🔭 I’m currently working on **random stuff**
-
 - 🌱 I’m currently learning **Java, JS**
 
-- 👯 I play **Rust, Csgo, World Of Tanks**
+- 👯 I play **Rust & CSGO**
 
-- 🤝 I like **good food, some sports, e-sport**
-
-- 💬 Ask me about **better dont**
+- 💬 Ask me about **NOTHING**
 
 - 📫 How to reach me **filip.picek@gmail.com/Discord: Pepek Namornik#8809**
 
