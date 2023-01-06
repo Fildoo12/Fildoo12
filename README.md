@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **NOTHING**
 
-- 📫 How to reach me **filip.picek@gmail.com/Discord: Pepek Namornik#8809**
+- 📫 How to reach me **filip.picek@gmail.com/Discord: Pepek Namornik#5407**
 
 - ⚡ Fun fact **Gray is not a color**
 
